@@ -1,4 +1,8 @@
-[<p style="text-align: center;"><font size="6">Github Pages</font></p>](https://pbenner.github.io/)
+<a href="https://pbenner.github.io/">
+  <p style="text-align: center;"><font size="6">
+    Github Pages
+  </font></p>
+</a>
 
 ### Statistics
 
